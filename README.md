@@ -2,7 +2,7 @@
 
 Currently, I work at the [Netherlands eScience Center](https://www.esciencecenter.nl), where I collaborate with scientists from universities and research institutes in the Netherlands, coding for open-source scientific projects in the life sciences and healthcare.
 
-I am a research software engineer with a background in bioinformatics and computational biology. My passion lies in software engineering and machine learning, which I enjoy applying to solve scientific challenges.
+I am a research software engineer with a background in bioinformatics and computational biology. My passion lies in software engineering and machine learning, and I love applying them to solve scientific challenges.
 
 
 ### 🔥 Open-source projects I am working on:
